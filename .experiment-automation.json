@@ -1,0 +1,10 @@
+{
+  "baseline_branch": "baseline",
+  "component": "agp",
+  "experiment_name": "experiment-agp-9.5.2",
+  "new_version": "9.5.2",
+  "old_version": "9.5.1",
+  "renovate_pr_number": 38,
+  "renovate_repo": "cdsap/telltale-experiment-automation",
+  "variant_branch": "agp-9.5.2"
+}
